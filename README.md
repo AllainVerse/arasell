@@ -6,12 +6,12 @@
 
 - 🌱 I’m currently learning **NodeJS**
 
-- 📫 How to reach me **arvazakifanadzan@gmail.com**
+- 📫 How to reach me **achmadrisel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/arvazakifanadzan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arvazakifanadzan" height="30" width="40" /></a>
-<a href="https://instagram.com/vazakii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vazakii" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/achmad-risel-araby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arasel" height="30" width="40" /></a>
+<a href="https://instagram.com/achmadrisel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arasell" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
