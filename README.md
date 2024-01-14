@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm ACHMAD RISEL ARABY</h1>
 <h3 align="center">Interest in Software Engineering(Blockchain).</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arasell&label=Profile%20views&color=0e75b6&style=flat" alt="arasell" /> </p>
 
 - 🌱 I’m currently learning **Blockchain**
 
@@ -19,5 +20,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arasell&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arasell&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=arasell&icon=0&color=12)](https://visitcount.itsvg.in)
